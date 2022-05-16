@@ -6,7 +6,7 @@ The `dialog` element is used similar as a `div` but with a specific purpose. <ma
 
 #### What's the difference between a normal popup `div` and a `dialog` then?
 
-From my experience, both are similar but very different. `div` popups requires you to setup style tags for it to have the popup's essentials. A shadow when display and the popup centering on screen. The `dialog` element in the other hand, acts as a `div` but also has the essentials of a popup modal in the meantime. You are not required to style the `div` to have a shadow when popup or center on the screen.
+From my experience, both are similar but very different. `div` popups requires you to setup style tags for it to have the popup's essentials. A shadow when display and the popup centering on screen. The `dialog` element in the other hand, acts as a `div` but also has the essentials of a popup modal in the meantime. You do not necessarly need to style the `dialog`.
 
 <br>
 
