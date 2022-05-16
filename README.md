@@ -53,7 +53,8 @@ Here's a visual example I found from MDN web docs.
 <br>
 
 ## Example
-- [Example Here](examplehere/index.html)
+- [HTML](examplehere/index.html)
+- [JS](examplehere/js/index.js)
 
 <br>
 
