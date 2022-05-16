@@ -52,6 +52,11 @@ Here's a visual example I found from MDN web docs.
 
 <br>
 
+## Example
+- [Example Here](examplehere/index.html)
+
+<br>
+
 ## References 
 - [MDN web docs dialog](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog)
 - [MDN web docs dialog.close()](https://developer.mozilla.org/en-US/docs/Web/API/HTMLDialogElement/close)
